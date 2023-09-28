@@ -48,7 +48,7 @@ const swiper = new Swiper('.swiper-container', {
 })
 
 /* ScrollReveal: Mostrar elementos quando der scroll na página */
-const scrollReveal = ScrollReveal({
+/*const scrollReveal = ScrollReveal({
   origin: 'top',
   distance: '30px',
   duration: 700,
@@ -69,7 +69,7 @@ scrollReveal.reveal(
   footer .brand, footer .social
   `,
   { interval: 100 }
-)
+)*/
 
 /* Botão voltar para o topo */
 const backToTopButton = document.querySelector('.back-to-top')
